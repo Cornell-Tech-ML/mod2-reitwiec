@@ -28,7 +28,7 @@ Number of Epochs: 200
 
 ![Simple Dataset Visualization](./assets/simple_plot.png)
 ![Simple Dataset Visualization](./assets/simple_loss.png)
-
+```
 Epoch: 0/500, loss: 0, correct: 0
 Epoch: 0/500, loss: 0, correct: 0
 Epoch: 0/500, loss: 0, correct: 0
@@ -63,6 +63,7 @@ Epoch: 170/200, loss: 0.3633896232125203, correct: 50
 Epoch: 180/200, loss: 0.33272374499538987, correct: 50
 Epoch: 190/200, loss: 0.3066917708119957, correct: 50
 Epoch: 200/200, loss: 0.2841712486770088, correct: 50
+```
 
 ## Diagonal Dataset:
 
@@ -74,6 +75,7 @@ Number of Epochs: 300
 ![Diagonal Dataset Visualization](./assets/diag_plot.png)
 ![Diagonal Dataset Visualization](./assets/diag_loss.png)
 
+```
 Epoch: 10/300, loss: 14.332763443165588, correct: 41
 Epoch: 20/300, loss: 11.814226377573622, correct: 45
 Epoch: 30/300, loss: 9.989148634866222, correct: 46
@@ -104,6 +106,7 @@ Epoch: 270/300, loss: 1.7568936679261722, correct: 50
 Epoch: 280/300, loss: 1.6943462291651032, correct: 50
 Epoch: 290/300, loss: 1.635964934674456, correct: 50
 Epoch: 300/300, loss: 1.5812659793758295, correct: 50
+```
 
 ## Split Dataset:
 
@@ -115,6 +118,7 @@ Number of Epochs: 850
 ![Split Dataset Visualization](./assets/split_plot.png)
 ![Split Dataset Visualization](./assets/split_loss.png)
 
+```
 Epoch: 10/850, loss: 34.51575795136671, correct: 30
 Epoch: 20/850, loss: 34.00909543726355, correct: 32
 Epoch: 30/850, loss: 33.55459473145797, correct: 31
@@ -200,6 +204,7 @@ Epoch: 820/850, loss: 2.8718174832937144, correct: 50
 Epoch: 830/850, loss: 2.832454941140274, correct: 50
 Epoch: 840/850, loss: 2.794328323349587, correct: 50
 Epoch: 850/850, loss: 2.7576118927805378, correct: 50
+```
 
 ## XOR Dataset:
 
@@ -211,6 +216,7 @@ Number of Epochs: 950
 ![XOR Dataset Visualization](./assets/xor_plot.png)
 ![XOR Dataset Visualization](./assets/xor_loss.png)
 
+```
 Epoch: 10/950, loss: 33.763412359559666, correct: 33
 Epoch: 20/950, loss: 33.45139283716242, correct: 33
 Epoch: 30/950, loss: 33.173882307031164, correct: 35
@@ -306,4 +312,4 @@ Epoch: 920/950, loss: 3.414709895759815, correct: 50
 Epoch: 930/950, loss: 3.3658381289613946, correct: 50
 Epoch: 940/950, loss: 3.3170434578226087, correct: 50
 Epoch: 950/950, loss: 3.2704126676693765, correct: 50
-
+```
